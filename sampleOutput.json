@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Nora Mishanec",
+            "title": "Severe geomagnetic storm hits Northern Hemisphere with northern lights - San Francisco Chronicle",
+            "description": "A severe geomagnetic creates rare sightings of \"northern lights\" but weather obscures it in California.",
+            "url": "https://www.sfchronicle.com/bayarea/article/geomagnetic-storm-aurora-borealis-17913963.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/32/34/72/23711398/3/rawImage.jpg",
+            "publishedAt": "2023-04-24T05:15:00Z",
+            "content": "A large-scale geomagnetic storm hit the Northern Hemisphere Sunday night, but most Californians' hopes to spot colorful waves of light known as aurora borealis, or northern lights, were dashed by clo… [+3522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Kenya pastor arrested after 39 bodies dug up in cult investigation - New York Post ",
+            "description": "Malindi sub-county police chief John Kemboi said that more shallow graves have yet to be dug up on the land belonging to pastor Paul Makenzi, who was arrested on April 14 over links to cultism.",
+            "url": "https://nypost.com/2023/04/24/kenya-pastor-arrested-after-39-bodies-dug-up-in-cult-investigation/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26725677-1682312046970.jpg?quality=75&strip=all&1682297839&w=1024",
+            "publishedAt": "2023-04-24T05:11:00Z",
+            "content": "NAIROBI, Kenya Thirty-nine bodies have been found so far on land owned by a pastor in coastal Kenya who was arrested for telling his followers to fast to death.\r\nMalindi sub-county police chief John … [+1930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Warriors vs. Kings: Steph Curry-De'Aaron Fox Game 4 duel gives us instant classic, taking series to epic level - CBS Sports",
+            "description": "Curry continues to add to his legend, while Fox quickly builds his own",
+            "url": "https://www.cbssports.com/nba/news/warriors-vs-kings-steph-curry-deaaron-fox-game-4-duel-gives-us-instant-classic-taking-series-to-epic-level/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/24/40ad5a3a-614a-47fa-9bdc-26b7453b5e77/thumbnail/1200x675/ad7c156963c289c6ee485f4e99090110/042323-deaaronfoxstephcurry.jpg",
+            "publishedAt": "2023-04-24T04:57:00Z",
+            "content": "SAN FRANCISCO -- People often compare back-and-forth sporting events to heavyweight boxing matches, with each behemoth taking their turn knocking the other into oblivion, only to see the opponent cou… [+6996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 NFL Mock Draft: Five QBs selected in first round in 'what teams SHOULD do' mock - CBS Sports",
+            "description": "It's draft week and here's what we think teams should do",
+            "url": "https://www.cbssports.com/nfl/draft/news/2023-nfl-mock-draft-five-qbs-selected-in-first-round-in-what-teams-should-do-mock/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/23/5d3937ed-49e4-4988-820e-198268b26808/thumbnail/1200x675/c51f0f6126409b9996dcfe4e22b380f7/hendonhooker.jpg",
+            "publishedAt": "2023-04-24T04:56:00Z",
+            "content": "It's been nearly eight months since the start of the 2022 college football season, and with just days to go before the 2023 NFL Draft, I'm doing something a little different in this penultimate mock … [+1373 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Anthony Edwards' CLUTCH 34 Point Game 4 Performance! | April 23, 2023 - NBA",
+            "description": "Anthony Edwards becomes the 4th player under the age of 22 to have back-to-back-to-back (three consecutive) games of 30+ points in the Playoffs, joining:LeBr...",
+            "url": "https://www.youtube.com/watch?v=_1IcojmNoyw",
+            "urlToImage": "https://i.ytimg.com/vi/_1IcojmNoyw/maxresdefault.jpg",
+            "publishedAt": "2023-04-24T04:48:14Z",
+            "content": null
+        }
+    ]
+}
